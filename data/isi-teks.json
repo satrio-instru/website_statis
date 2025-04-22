@@ -1,0 +1,32 @@
+{
+  "nama": "satrio",
+  "status": "mahasiswa fisika | Tahun kedua  ",
+
+  "siapakahsaya": {
+    "tentangsaya": "saya mahasiswa yang tertarik dengan web design dan IoT",
+    "deskripsi": "saya tengah mempelajari html/css sebagai penunjang kegiatan saya dibidang mikrokontroler dengan menggunakan arduino IDE, saya memiliki pengalaman dalam membuat projek seperti tilt camera 2 axis, monitoring temperature dengan localhost esp32, dan cnc plotter machine"
+  },
+
+  "informasipribadi": {
+    "tanggallahir": 13072005,
+    "email": "satrioputrih@gmail.com",
+    "nomorhp": 6281273426168,
+    "alamat": "marga anak tuha, rajabasa"
+  },
+
+  "ketertarikan": {
+    "ketertarikan1": "internet of thing",
+    "deskripsiketertarikan1": "mikrokontroler esp32 dan arduino uno",
+    "alasantertarik1": " Dalam aplikasi web server sederdana, esp32 dapat di manfaatkan sebagai mini server, menjadi alat komunikasi sederhana seperti pembacaan sensor, hal ini yang kini dikenal sebgai internet of thing",
+    "ketertarikan2": " Front End Stack",
+    "deskripsiketertarikan2": " HTML/CSS/JavaScript",
+    "alasantertarik2": "kebutuhan suatu lembaga untuk mempromosikan atau menunjukkan kepada khalayak mengenai citranya dipengaruhi dari bagaimana tampilan UI situs official Webnya. Penguasaan HTML/CSS di era ini tidak lagi sebagai skil tambahan melainkan sebagai skill dasar",
+
+    "ketertarikan3": "Instrumentasi",
+    "deskripsiketertarikan3": "Programmable Logic Control(PLC)",
+    "alasantertarik3": " dengan adanya instrumentasi, maka suatu mekanisme dapat dalam keadaan terkontrol, hal ini sangat berpengaruh dalam automatisasi"
+  },
+
+  "jurusan": "jurusan fisika FMIPA unila",
+  "sekilastentangjurusan": "saya mengawali pendidikan saya di jenjang kuliah di jurusan fisika fakultas matematika dan ilmu pengetahuan alam universitas lampung pada tahun 2023, hingga kini saya masih aktfi kuliah dan tengah sibuk dalam mempelajari tentang PID Controller"
+}

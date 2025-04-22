@@ -1,0 +1,9 @@
+<script>
+  //script ini digunakan untuk mengedit isi laman dengan mengandalkan integrasi dengan file json
+  fetch("data/isi-teks.json")
+    .then((response) => response.json())
+    .then((data) => {
+      document.getElementById("nama").innerText = data.nama;
+    })
+    .catch((eror) => console.error("Gagal menngambil data", error));
+</script>
